@@ -1,0 +1,14 @@
+# Runtime output files
+organizer_log.txt
+duplicates_report.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+env/
+.env
+.vscode/
+.DS_Store
+Thumbs.db
