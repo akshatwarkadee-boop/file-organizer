@@ -107,7 +107,6 @@ No `pip install` needed. Works on macOS, Windows, and Linux.
 file-organizer/
 ├── organizer.py          ← All logic (single file)
 ├── README.md
-├── GITHUB_SETUP.md
 └── .gitignore
 ```
 
